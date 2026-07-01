@@ -1,0 +1,6 @@
+{
+  "name": "DriveRescue",
+  "description": "Corrupted Pendrive & SD Card Reprogramming Tool and File Recovery",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
